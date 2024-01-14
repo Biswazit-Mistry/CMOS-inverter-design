@@ -1,5 +1,5 @@
 # CMOS-inverter-design
-Project 01 <br>
+Project 01 [CMOS inverter design] <br>
 Author: Biswazit Mistry<br>
 Bachelor in Electrical and Electronic Engineering (IUBAT)<br>
 Email: 22105044@iubt.edu<br>
